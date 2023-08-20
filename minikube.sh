@@ -32,5 +32,5 @@ kubectl version -o yaml
 
 
 echo "Start the minikube"
-minikube start 
+minikube start --force   #use --force since your using docker as root user
 minikube status
