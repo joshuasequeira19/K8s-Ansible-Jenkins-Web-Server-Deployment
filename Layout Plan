@@ -1,0 +1,3 @@
+jenkins (jenkins + java-jre)
+ansible (python + docker + ansible)
+webserver (kube cluster) -> (docker + minikube)
